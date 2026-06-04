@@ -2031,7 +2031,7 @@ async def faq(interaction: discord.Interaction):
     await interaction.response.defer(ephemeral=True)
 
     text = (
-        "# Monke Monke Monke Frequently Asked Questions\n\n"
+        "# Comptive Tagging Gorillas Frequently Asked Questions\n\n"
         "## • How can I make a team/How do I get it official?\n\n"
         "> **Making a team is quite easy,**\n"
         "> - Simply make a discord for your team, and use recruitment-center,\n"
